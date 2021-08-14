@@ -31,7 +31,6 @@ Nó làm việc như 1 đống đĩa mà đĩa cuối cùng được giữ trên
 |:--:| 
 | *Trong 1 ngăn xếp, các hoạt động chỉ có thể được thực hiện từ một đầu (trên cùng ở đây).* |
 
-
 ![Trong 1 ngăn xếp, các hoạt động chỉ có thể được thực hiện từ một đầu (trên cùng ở đây).](https://cdn.programiz.com/cdn/farfuture/kDcDcLDytJ7-aLU-7zVQAIiMLfh4TOvi-mZR10hOCFg/mtime:1623152242/sites/tutorial2program/files/stack_dsa.png?raw=true)
 *Trong 1 ngăn xếp, các hoạt động chỉ có thể được thực hiện từ một đầu (trên cùng ở đây).*
 
