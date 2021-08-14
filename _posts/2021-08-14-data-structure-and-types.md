@@ -84,7 +84,7 @@ Tương tự một `graph`, một `Tree` là tập hợp của các đỉnh và 
 - [B-Tree](https://www.programiz.com/dsa/b-tree)
 
 ### Tuyến tính vs phi tuyến tính
-Bây giờ, chúng ta biết về tuyến tính và phi tuyến tính, chúng ta sẽ xem sự khác biệt giữa chúng.<br/>
+Bây giờ, chúng ta biết về tuyến tính và phi tuyến tính, chúng ta sẽ xem sự khác biệt giữa chúng. <br/>
 
 | Linear Data Structures | non Linear Data Structures |
 |-----------|-----------|
