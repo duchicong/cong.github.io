@@ -85,6 +85,7 @@ Tương tự một `graph`, một `Tree` là tập hợp của các đỉnh và 
 
 ### Tuyến tính vs phi tuyến tính
 Bây giờ, chúng ta biết về tuyến tính và phi tuyến tính, chúng ta sẽ xem sự khác biệt giữa chúng.<br/>
+
 | Linear Data Structures | non Linear Data Structures |
 |-----------|-----------|
 | Các mục dữ liệu được sắp xếp theo thứ tự nối tiếp nhau | Các mục dữ liệu được sắp xếp theo thứ tự không tuần tự |
